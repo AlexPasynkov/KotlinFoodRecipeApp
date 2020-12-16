@@ -1,4 +1,4 @@
-package com.alexlearn.stevankotlinrecipeapp
+package com.alexlearn.stevankotlinrecipeapp.data.network
 
 import com.alexlearn.stevankotlinrecipeapp.models.FoodRecipe
 import retrofit2.Response

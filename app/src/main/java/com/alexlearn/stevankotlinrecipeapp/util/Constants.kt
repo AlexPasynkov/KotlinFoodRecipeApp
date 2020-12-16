@@ -1,4 +1,4 @@
-package com.alexlearn.stevankotlinrecipeapp
+package com.alexlearn.stevankotlinrecipeapp.util
 
 class Constants {
 
